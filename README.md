@@ -4,12 +4,12 @@
 
 This project is a CRM Sales Dashboard built using Power BI, aimed at analyzing sales performance, revenue trends, and business insights. The dashboard provides an interactive view of key sales metrics to help organizations track progress, optimize sales strategies, and make data-driven decisions.
 
-# Key Features & Insights
+# 📊 Key Features & Insights
 
 ## 1. Sales Performance Metrics
-- Total Employees: 396K
-- Total Revenue: 363M
-- Win Rate: 57.46%
+- 🔧Total Employees: 396K
+- 💰Total Revenue: 363M
+- 🏆Win Rate: 57.46%
 - Average Deal Size: 22.99
 - Total Deals Closed: 4238
 
