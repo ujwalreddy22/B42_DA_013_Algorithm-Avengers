@@ -48,9 +48,9 @@ Python: Data wrangling and data extraction
 CRM Database: Source for sales and performance data
 
 ## 🏆 Contributors
-Ujwal Reddy (Team Lead)
-Zoya Naseer
-Nisha Rana
+- Ujwal Reddy (Team Lead)
+- Zoya Naseer
+- Nisha Rana
 
 
 
