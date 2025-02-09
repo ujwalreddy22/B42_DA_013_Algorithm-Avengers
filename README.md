@@ -6,38 +6,52 @@ This project is a CRM Sales Dashboard built using Power BI, aimed at analyzing s
 
 # Key Features & Insights
 
-1. Sales Performance Metrics
+## 1. Sales Performance Metrics
+- Total Employees: 396K
+- Total Revenue: 363M
+- Win Rate: 57.46%
+- Average Deal Size: 22.99
+- Total Deals Closed: 4238
 
-Total Employees: 396K
+## 2. Revenue Analysis
+- Revenue Trend Over Time: Monthly analysis of revenue fluctuations.
+- Revenue by Account & Regional Office: Understanding contributions by top accounts and different regions.
+- Top 10 Accounts by Revenue: Highest revenue-generating clients.
 
-Total Revenue: 363M
+## 3. Sales Agent Performance
+- Total Deals by Deal Stage: Breakdown of deals won, lost, engaging, and prospecting.
+- Top 10 Deals Won by Sales Agent: Best-performing sales representatives.
+- Top 5 Sales Agents by Win Rate: Agents with the highest deal closure success.
+- Monthly Revenue vs. Deals Closed: Relationship between revenue and closed deals.
 
-Win Rate: 57.46%
+## 4. Sector & Product Performance
+- Revenue by Sector: Retail, Technology, Medical, Software, Finance, and other industries.
+- Revenue by Product: Analysis of top-performing products, such as GTX Plus Pro, MG Advanced, and GTK 500.
 
-Average Deal Size: 22.99
+## 🚀 How to Use the Dashboard
 
-Total Deals Closed: 4238
+Open Power BI Desktop: Ensure Power BI Desktop is installed on your system.
+Load the Dashboard: Open the .pbix file to access the CRM Sales Dashboard.
+Interactive Analysis: Use the built-in filters for detailed insights:
+Select regional offices, sales agents, and product categories for dynamic visualizations.
+Analyze the monthly performance by using timeline filters.
 
-2. Revenue Analysis
+## 📁 Project Structure
+Data Cleaning Notebook: Jupyter notebook for preprocessing the raw sales data.
+Database Connection Notebook: Jupyter notebook for extracting data from the CRM database.
+Power BI Dashboard: An interactive .pbix file containing the sales dashboard.
 
-Revenue Trend Over Time: Monthly analysis of revenue fluctuations.
+## 🔧 Tools & Technologies
+Power BI Desktop: Data visualization and dashboard creation
+Jupyter Notebook: Data preprocessing and database connections
+Python: Data wrangling and data extraction
+CRM Database: Source for sales and performance data
 
-Revenue by Account & Regional Office: Understanding contributions by top accounts and different regions.
+## 🏆 Contributors
+Ujwal Reddy (Team Lead)
+Zoya Naseer
+Nisha Rana
 
-Top 10 Accounts by Revenue: Highest revenue-generating clients.
 
-3. Sales Agent Performance
 
-Total Deals by Deal Stage: Breakdown of deals won, lost, engaging, and prospecting.
 
-Top 10 Deals Won by Sales Agent: Best-performing sales representatives.
-
-Top 5 Sales Agents by Win Rate: Agents with the highest deal closure success.
-
-Monthly Revenue vs. Deals Closed: Relationship between revenue and closed deals.
-
-4. Sector & Product Performance
-
-Revenue by Sector: Retail, Technology, Medical, Software, Finance, and other industries.
-
-Revenue by Product: Analysis of top-performing products, such as GTX Plus Pro, MG Advanced, and GTK 500.
