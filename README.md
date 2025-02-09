@@ -41,6 +41,20 @@ Data Cleaning Notebook: Jupyter notebook for preprocessing the raw sales data.
 Database Connection Notebook: Jupyter notebook for extracting data from the CRM database.
 Power BI Dashboard: An interactive .pbix file containing the sales dashboard.
 
+## How to Run
+# Step 1: Data Cleaning
+- Open the crm_data_cleaning.ipynb file.
+- Execute the cells to clean the raw datasets.
+- Save the cleaned datasets.
+# Step 2: Database Integration
+- Open the sql_connecting_file.ipynb file.
+- Update the database credentials in the script.
+- Execute the cells to upload cleaned data to the MySQL database.
+# Step 3: Data Visualization
+- Open the crm_sales_project.pbit file in Power BI Desktop.
+- Connect the template to your database.
+- Refresh the data to view updated dashboards.
+
 ## 🔧 Tools & Technologies
 Power BI Desktop: Data visualization and dashboard creation
 Jupyter Notebook: Data preprocessing and database connections
